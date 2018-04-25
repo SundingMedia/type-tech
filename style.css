@@ -1,0 +1,33 @@
+body {
+    font-family:'Lato', sans-serif; 'Halant', serif; "Avenir-BlackOblique", "Avenir-Black", "Avenir", "Avenir-Light", "Avenir-LightOblique", "Avenir, sans-serif"; 
+    font-size:12px;
+    background-color:#FFF;
+}
+
+
+
+#container,#svg {
+    width:1024px;
+    height:768px;
+    background-color:#FFF;
+    position:absolute;
+    left:0;
+    right:0;    
+}
+
+#allText{
+    width:400px;
+	height:200px;
+    position:absolute;
+    left:100px;
+    top:275px;
+    line-height: 1.5;
+ }
+
+#pText{
+    font-family:Shree Devanagari 714;
+	font-size:12px;
+    line-height: 1.5;
+}
+
+
